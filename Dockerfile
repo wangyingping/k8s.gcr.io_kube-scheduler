@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-scheduler-amd64:v1.16.15
+FROM k8s.gcr.io/kube-schedule:v1.16.15
